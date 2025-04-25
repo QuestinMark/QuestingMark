@@ -1,11 +1,11 @@
-# 👋 ¡Hola! 
+# 👋 Hello!
 
-Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)** con muchas ganas de seguir formándome y creciendo en el mundo del desarrollo.
+I'm a student of **Microcomputer Systems and Networks (SMR)** with a strong desire to keep learning and growing in the world of development.
 
-💻 Tengo **conocimientos básicos de Python y JavaScript**, y manejo **HTML y CSS a nivel inicial**. Actualmente estoy **aprendiendo Java**.
+💻 I have **basic knowledge of Python and JavaScript**, and I’m familiar with **HTML and CSS at an introductory level**. I’m currently **learning Java**.
 
-🎓 Mi objetivo es continuar mi formación en el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarrollo de Aplicaciones Web (DAW)** para ampliar mis habilidades como desarrollador.
+🎓 My goal is to continue my studies in **Multiplatform Application Development (DAM)** and **Web Application Development (DAW)** to expand my skills as a developer.
 
-🚀 Me apasiona **aprender, experimentar y aportar valor a la comunidad** a través de mis proyectos y futuras colaboraciones.
+🚀 I'm passionate about **learning, experimenting, and contributing value to the community** through my projects and future collaborations.
 
-¡Gracias por visitar mi perfil!
+Thanks for visiting my profile!
