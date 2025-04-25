@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Raúl
+# 👋 ¡Hola! 
 
 Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)** con muchas ganas de seguir formándome y creciendo en el mundo del desarrollo.
 
